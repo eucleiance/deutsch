@@ -1,0 +1,17 @@
+{
+  "accentColor": "#805cec",
+  "baseFontSize": 18,
+  "cssTheme": "Sanctum",
+  "theme": "obsidian",
+  "translucency": false,
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Inter",
+  "baseFontSizeAction": true,
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "monospaceFontFamily": "Inter",
+  "enabledCssSnippets": [
+    "dashboard",
+    "table-no-scroll"
+  ]
+}

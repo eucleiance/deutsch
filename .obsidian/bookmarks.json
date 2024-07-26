@@ -1,0 +1,92 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1686728741369,
+      "items": [
+        {
+          "type": "graph",
+          "ctime": 1686728649924,
+          "title": "Book Graph",
+          "options": {
+            "collapse-filter": false,
+            "search": "tag:#Books",
+            "showTags": true,
+            "showAttachments": false,
+            "hideUnresolved": false,
+            "showOrphans": true,
+            "collapse-color-groups": false,
+            "colorGroups": [],
+            "collapse-display": true,
+            "showArrow": false,
+            "textFadeMultiplier": 0.3,
+            "nodeSizeMultiplier": 0.411210571184996,
+            "lineSizeMultiplier": 0.645140664961637,
+            "collapse-forces": true,
+            "centerStrength": 0.199920191540303,
+            "repelStrength": 7.11055538189017,
+            "linkStrength": 0.614924181963288,
+            "linkDistance": 228,
+            "scale": 0.5087618855792927,
+            "close": false
+          }
+        },
+        {
+          "type": "graph",
+          "ctime": 1686728735806,
+          "title": "LRLR",
+          "options": {
+            "collapse-filter": false,
+            "search": "tag:#LowResistanceLiquidityRuns",
+            "showTags": true,
+            "showAttachments": false,
+            "hideUnresolved": false,
+            "showOrphans": true,
+            "collapse-color-groups": false,
+            "colorGroups": [],
+            "collapse-display": true,
+            "showArrow": false,
+            "textFadeMultiplier": 0.3,
+            "nodeSizeMultiplier": 0.411210571184996,
+            "lineSizeMultiplier": 0.645140664961637,
+            "collapse-forces": true,
+            "centerStrength": 0.199920191540303,
+            "repelStrength": 7.11055538189017,
+            "linkStrength": 0.614924181963288,
+            "linkDistance": 228,
+            "scale": 1.4019828977761977,
+            "close": false
+          }
+        },
+        {
+          "type": "graph",
+          "ctime": 1686728790674,
+          "title": "HRLR",
+          "options": {
+            "collapse-filter": false,
+            "search": "tag:#HighResistanceLiquidityRuns",
+            "showTags": true,
+            "showAttachments": false,
+            "hideUnresolved": false,
+            "showOrphans": true,
+            "collapse-color-groups": false,
+            "colorGroups": [],
+            "collapse-display": true,
+            "showArrow": false,
+            "textFadeMultiplier": 0.3,
+            "nodeSizeMultiplier": 0.411210571184996,
+            "lineSizeMultiplier": 0.645140664961637,
+            "collapse-forces": true,
+            "centerStrength": 0.199920191540303,
+            "repelStrength": 7.11055538189017,
+            "linkStrength": 0.614924181963288,
+            "linkDistance": 228,
+            "scale": 0.18462326225859416,
+            "close": false
+          }
+        }
+      ],
+      "title": "Specialty Graphs"
+    }
+  ]
+}
