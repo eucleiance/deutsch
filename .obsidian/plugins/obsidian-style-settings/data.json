@@ -83,5 +83,6 @@
   "sanctum@@table-sticky-height": 10000,
   "sanctum@@font-editor-theme": "Meslo LG",
   "sanctum@@table-alternate-column": false,
-  "sanctum@@table-hover-highlight-color@@dark": "#6B6B6B8A"
+  "sanctum@@table-hover-highlight-color@@dark": "#6B6B6B8A",
+  "sanctum@@link-external-decoration": "none"
 }
