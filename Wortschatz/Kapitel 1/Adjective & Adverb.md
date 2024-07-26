@@ -1,5 +1,5 @@
 | Adjektive und Adverbien | Adjectives and Adverbs |
-|-------------------------|------------------------|
+| ----------------------- | ---------------------- |
 | angenehm                | pleasant               |
 | arm                     | poor                   |
 | dumm                    | dumb, stupid           |
@@ -19,3 +19,12 @@
 | schnell                 | fast, quickly          |
 | unfreundlich            | unfriendly             |
 | unpersönlich            | impersonal             |
+| bequem                  | comfortable            |
+| bunt                    | colorful               |
+| einfach                 | plain, simple          |
+| fusselig                | fuzzy                  |
+| geblümt                 | flowery, flowered      |
+| gemustert               | patterned              |
+| gepunktet               | polka-dot              |
+| gestreift               | striped                |
+| kariert                 | checkered, plaid       |
