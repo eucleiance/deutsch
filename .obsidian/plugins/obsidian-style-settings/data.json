@@ -52,7 +52,6 @@
   "sanctum@@table-nums": false,
   "sanctum@@table-tabular-figures": true,
   "sanctum@@checkbox-color-rgb": "99, 149, 156",
-  "sanctum@@font-editor-theme": "Inter",
   "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha-old",
   "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-mauve",
   "anuppuccin-theme-settings@@anuppuccin-accent-toggle": true,
@@ -81,5 +80,7 @@
   "sanctum@@highlight@@dark": "#745A35",
   "sanctum@@active-line-accent": "transparent",
   "sanctum@@table-alternate-row": false,
-  "sanctum@@table-sticky-height": 10000
+  "sanctum@@table-sticky-height": 10000,
+  "sanctum@@font-editor-theme": "Meslo LG",
+  "sanctum@@table-alternate-column": false
 }

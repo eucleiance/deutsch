@@ -1,15 +1,15 @@
 {
   "accentColor": "#805cec",
-  "baseFontSize": 18,
+  "baseFontSize": 16,
   "cssTheme": "Sanctum",
   "theme": "obsidian",
   "translucency": false,
-  "interfaceFontFamily": "Inter",
-  "textFontFamily": "Inter",
+  "interfaceFontFamily": "Andale Mono",
+  "textFontFamily": "Courier New,MesloLG,Source Code Pro",
   "baseFontSizeAction": true,
   "showViewHeader": true,
   "nativeMenus": false,
-  "monospaceFontFamily": "Inter",
+  "monospaceFontFamily": "Andale Mono",
   "enabledCssSnippets": [
     "dashboard",
     "table-no-scroll"
