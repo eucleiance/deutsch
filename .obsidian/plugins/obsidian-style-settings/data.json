@@ -44,7 +44,7 @@
   "sanctum@@colorful-active-nav": false,
   "sanctum@@clean-embeds": false,
   "sanctum@@table-cell-border": false,
-  "sanctum@@table-row-border": true,
+  "sanctum@@table-row-border": false,
   "sanctum@@table-column-border": true,
   "sanctum@@table-hover-row": false,
   "sanctum@@table-sticky-headers": true,
@@ -79,8 +79,9 @@
   "sanctum@@blockquote-border-color@@dark": "#997C5C",
   "sanctum@@highlight@@dark": "#745A35",
   "sanctum@@active-line-accent": "transparent",
-  "sanctum@@table-alternate-row": false,
+  "sanctum@@table-alternate-row": true,
   "sanctum@@table-sticky-height": 10000,
   "sanctum@@font-editor-theme": "Meslo LG",
-  "sanctum@@table-alternate-column": false
+  "sanctum@@table-alternate-column": false,
+  "sanctum@@table-hover-highlight-color@@dark": "#6B6B6B8A"
 }

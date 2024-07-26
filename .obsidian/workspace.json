@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goethe/Personal.md",
+                "file": "Wortschatz/Kapitel 2/Everyday Life.md",
                 "mode": "preview",
                 "source": false
               }
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 231.5
   },
   "right": {
     "id": "73b3c817e4871819",
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Goethe/Personal.md",
+                "file": "Wortschatz/Kapitel 2/Everyday Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Goethe/Personal.md",
+                "file": "Wortschatz/Kapitel 2/Everyday Life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Goethe/Personal.md"
+                "file": "Wortschatz/Kapitel 2/Everyday Life.md"
               }
             }
           },
@@ -200,35 +200,39 @@
   },
   "active": "4c154dc4c9f049ee",
   "lastOpenFiles": [
-    "Goethe/Pronouns.md",
-    "Goethe/Conjugation_Forms.md",
-    "Goethe/Articles.md",
-    "Goethe/Personal.md",
+    "Wortschatz/Kapitel 2/Misc.md",
+    "Wortschatz/Kapitel 2/School Subjects.md",
+    "Wortschatz/Kapitel 2/Everyday Life.md",
+    "Wortschatz/Kapitel 2/Time, Weeks & Months.md",
+    "Wortschatz/Kapitel 2/Family.md",
     "Goethe/01.md",
+    "Wortschatz/Kapitel 2",
     "Goethe/Questions.md",
+    "Wortschatz/Kapitel 1/Verbs.md",
+    "Wortschatz/Kapitel 1/People.md",
+    "Wortschatz/Kapitel 1/Numbers.md",
+    "Wortschatz/Kapitel 1/Adjective & Adverb.md",
+    "Wortschatz/Kapitel 1",
+    "Wortschatz/Kapitel 1/Colors.md",
+    "Wortschatz/Kapitel 1/Greetings.md",
+    "Wortschatz/Kapitel 1/Classroom Stuffs.md",
+    "Wortschatz/Kapitel 1/Countries.md",
+    "Wortschatz/Kapitel 1/Appearance.md",
+    "Goethe/Wortschatz.md",
+    "Wortschatz",
+    "Goethe/Articles.md",
+    "Untitled.md",
+    "Attachments/Pasted image 20240726234010.png",
+    "Goethe/Conjugation_Forms.md",
+    "Goethe/Noun_Endings.md",
+    "Goethe/Personal.md",
+    "Goethe/Pronouns.md",
     "Goethe/Cases.md",
     "Goethe/Vocab.md",
     "Vocabulary/Common_Words.md",
-    "Vocabulary/Phrases/Greetings.md",
-    "Goethe/Noun_Endings.md",
     "Attachments/2024-07-22-203628_hyprshot.png",
     "Attachments/2024-07-22-203616_hyprshot.png",
     "Attachments/2024-07-22-203604_hyprshot.png",
-    "Grammar/Verbs/Imperatives.md",
-    "Grammar/Verbs/Passive_Voice.md",
-    "Vocabulary/Phrases/Useful_Expressions.md",
-    "Vocabulary/Synonyms_and_Antonyms.md",
-    "Grammar/Verbs/Regular_and_Irregular_Verbs.md",
-    "Grammar/Verbs/Verb_Separable_Prefixes.md",
-    "Grammar/Verbs/Infinitive_Clauses.md",
-    "Grammar/Verbs/Aspect_of_Verbs.md",
-    "0_0.md",
-    "Untitled.md",
-    "Grammar/Pronouns/Possessive.md",
-    "Grammar/Pronouns/Demonstrative.md",
-    "Grammar/Pronouns/Indefinite.md",
-    "Grammar/Pronouns/Reciprocal.md",
-    "Grammar/Pronouns/Interrogative.md",
     "Attachments/Pasted image 20240720183829.png",
     "Attachments",
     "Attachments/Pasted image 20240720192815.png",
@@ -238,13 +242,9 @@
     "Vocabulary/Thematic_Vocab/Travel",
     "Vocabulary/Thematic_Vocab/Food",
     "Vocabulary/Thematic_Vocab/Daily_Routine",
-    "Vocabulary/Phrases/Useful_Expressions",
-    "Vocabulary/Phrases/Questions",
-    "Vocabulary/Phrases/Greetings",
     "Zournal/Daily/attachments/Pasted image 20240304225005.png",
     "Zournal/Daily/attachments/Pasted image 20240304225001.png",
     "Zournal/Daily/attachments/Pasted image 20240304224954.png",
-    "Zournal/Daily/attachments/Pasted image 20240304224948.png",
-    "Zournal/Daily/attachments/Pasted image 20240304224941.png"
+    "Zournal/Daily/attachments/Pasted image 20240304224948.png"
   ]
 }
