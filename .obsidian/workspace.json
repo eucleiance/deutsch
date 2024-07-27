@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4da24efa97f64a0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Goethe/Noun_Endings.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Goethe/Questions.md",
+                "file": "Goethe/Noun_Endings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Goethe/Questions.md",
+                "file": "Goethe/Noun_Endings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Goethe/Questions.md"
+                "file": "Goethe/Noun_Endings.md"
               }
             }
           },
@@ -186,10 +199,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4c154dc4c9f049ee",
+  "active": "4da24efa97f64a0a",
   "lastOpenFiles": [
-    "Goethe/Cases.md",
     "Goethe/Questions.md",
+    "Goethe/Cases.md",
     "Goethe/01.md",
     "Attachments/Pasted image 20240720192815.png",
     "Attachments/Pasted image 20240726234010.png",
