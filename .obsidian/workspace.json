@@ -13,20 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wortschatz/Kapitel 1/Adjective & Adverb.md",
+                "file": "Goethe/Questions.md",
                 "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da2b7dbdf7c1b501",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Goethe/Cases.md",
-                "mode": "source",
                 "source": false
               }
             }
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wortschatz/Kapitel 1/Adjective & Adverb.md",
+                "file": "Goethe/Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wortschatz/Kapitel 1/Adjective & Adverb.md",
+                "file": "Goethe/Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wortschatz/Kapitel 1/Adjective & Adverb.md"
+                "file": "Goethe/Questions.md"
               }
             }
           },
@@ -200,6 +188,16 @@
   },
   "active": "4c154dc4c9f049ee",
   "lastOpenFiles": [
+    "Goethe/Cases.md",
+    "Goethe/Questions.md",
+    "Goethe/01.md",
+    "Attachments/Pasted image 20240720192815.png",
+    "Attachments/Pasted image 20240726234010.png",
+    "Attachments/2024-07-22-203628_hyprshot.png",
+    "Attachments/2024-07-22-203616_hyprshot.png",
+    "Attachments/2024-07-22-203604_hyprshot.png",
+    "0_0.md",
+    "Wortschatz/Kapitel 1/Adjective & Adverb.md",
     "Wortschatz/Kapitel 1/Numbers.md",
     "Wortschatz/Kapitel 1/People.md",
     "Wortschatz/Kapitel 1/Verbs 1.md",
@@ -208,9 +206,7 @@
     "Wortschatz/Kapitel 1/Colors.md",
     "Wortschatz/Kapitel 1/Classroom Stuffs.md",
     "Wortschatz/Kapitel 1/Appearance.md",
-    "Wortschatz/Kapitel 1/Adjective & Adverb.md",
     "Wortschatz/Kapitel 4/Verbs 2.md",
-    "0_0.md",
     "Keyboard Layout - DE.md",
     "Resources/Videos.md",
     "Notes/Cultural_Insights.md",
@@ -223,21 +219,13 @@
     "Wortschatz/Kapitel 4/Misc 3.md",
     "Wortschatz/Kapitel 3/Misc 2.md",
     "Wortschatz/Kapitel 2/Misc 1.md",
-    "Wortschatz/Kapitel 4/Traffic.md",
-    "Wortschatz/Kapitel 4/Toiletries.md",
-    "Wortschatz/Kapitel 4/Luggage.md",
     "Wortschatz/Kapitel 4",
     "Wortschatz/Kapitel 3",
     "Wortschatz/Kapitel 2",
     "Wortschatz/Kapitel 1",
     "Wortschatz",
-    "Attachments/Pasted image 20240726234010.png",
-    "Attachments/2024-07-22-203628_hyprshot.png",
-    "Attachments/2024-07-22-203616_hyprshot.png",
-    "Attachments/2024-07-22-203604_hyprshot.png",
     "Attachments/Pasted image 20240720183829.png",
     "Attachments",
-    "Attachments/Pasted image 20240720192815.png",
     "Goethe/attachments",
     "attachments",
     "Goethe",
