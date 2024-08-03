@@ -1,0 +1,33 @@
+#### Received Prononciation
+**How many times have you asked Sam whether or not his daughter's learning disorder was caused by a genetic abnormality?**
+
+- **Vowel Sounds:**
+	- /aʊ/ in "how"
+	- /æ/ in "Sam"
+	- /eɪ/ in "many" and "asked"
+	- /ɪ/ in "his," "genetic," and "abnormality"
+	- /ɑː/ in "asked," "daughter," "caused," and "disorder"
+	- /ɔː/ in "daughter" and "disorder"
+	- /ə/ in "whether," "or," "not," "his," "was," "a," "genetic," and "abnormality"
+	- /ʌ/ in "disorder"
+- **Consonant Sounds:**
+	- /h/ in "how" and "his"
+	- /m/ in "many" and "Sam"
+	- /n/ in "many," "not," "genetic," and "abnormality"
+	- /t/ in "times," "asked," "not," and "daughter"
+	- /s/ in "times," "asked," "Sam," "disorder," and "was"
+	- /k/ in "asked," "caused," and "genetic"
+	- /d/ in "asked," "daughter," "disorder," "caused," and "genetic"
+	- /ð/ in "whether"
+	- /l/ in "learning" and "abnormality"
+	- /g/ in "genetic"
+	- /r/ in "whether," "or," "daughter," "learning," "disorder," and "genetic"
+- **Diphthongs:**
+	- /aʊ/ in "how"
+	- /eɪ/ in "many" and "asked"
+	- /əʊ/ in "disorder" and "caused"
+	- /aɪ/ in "disorder" and "genetic"
+	- /ɔɪ/ in "disorder"
+- **Other Features:**
+	- Clear enunciation of the /r/ sound in "whether," "or," "daughter," "learning," "disorder," "caused," and "genetic"
+	- Non-rhoticity (the /r/ is not pronounced unless it precedes a vowel sound)
