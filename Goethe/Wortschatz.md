@@ -20,6 +20,3 @@
 | schlank       | slim, slender, thin     |
 | schön         | pretty, beautiful, nice |
 | unattraktiv   | unattractive            |
-![[Pasted image 20240726234010.png]]
-
-| 
