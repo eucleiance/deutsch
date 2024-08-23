@@ -1,4 +1,4 @@
-### Maskulin Noun Endings (der)
+### Maskulin (der)
 
 | Ending | Example A                 | Example B             | Example C             |
 | ------ | ------------------------- | --------------------- | --------------------- |
@@ -14,7 +14,7 @@
 | -ich   | Teppich (carpet)          | Pfirsich (peach)      | Streich (prank)       |
 | -ast   | Gast (guest)              | Fast (fast)           | Last (last)           |
 
-### Feminin Noun Endings (die)
+### Feminin (die)
 
 | Ending  | Example A                  | Example B                     | Example C                |
 | ------- | -------------------------- | ----------------------------- | ------------------------ |
@@ -38,7 +38,7 @@
 | -is     | Basis (basis)              | Miss (miss)                   | Kasis (cassock)          |
 | -in     | Freundin (friend)          | Lehrerin (teacher)            | Malerin (painter)        |
 | -a      | Villa (villa)              | Kamera (camera)               | Bluse (blouse)           |
-### Neuter Noun Endings (das)
+### Neuter (das)
 
 | Ending | Example A               | Example B                  | Example C               |
 | ------ | ----------------------- | -------------------------- | ----------------------- |
